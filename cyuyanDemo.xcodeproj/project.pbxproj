@@ -269,7 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Q94Y4N4RXK;
+				DEVELOPMENT_TEAM = E3DPJ4DW7A;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.jc.ciYuYan.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -280,7 +280,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Q94Y4N4RXK;
+				DEVELOPMENT_TEAM = E3DPJ4DW7A;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.jc.ciYuYan.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
